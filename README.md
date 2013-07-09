@@ -7,6 +7,15 @@ Launches a n'th instance of [Skype](http://skype.com) with [Alfred 2](http://www
 
 [Download workflow](https://github.com/mbogh/Skypenthlauncher-Alfred/releases)
 
+## Build
+
+```
+git clone https://github.com/mbogh/Skypenthlauncher-Alfred.git
+cd Skypenthlauncher-Alfred
+cd source
+zip SkypenthLauncher.alfredworkflow *
+```
+
 ## License
 
 Need to figure out :)
